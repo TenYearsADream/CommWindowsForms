@@ -1,0 +1,11 @@
+E:\模型\C#通讯程序\CommWindowsForms\CommWindowsForms\bin\Debug\CommWindowsForms.exe
+E:\模型\C#通讯程序\CommWindowsForms\CommWindowsForms\bin\Debug\CommWindowsForms.pdb
+E:\模型\C#通讯程序\CommWindowsForms\CommWindowsForms\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\模型\C#通讯程序\CommWindowsForms\CommWindowsForms\obj\x86\Debug\CommWindowsForms.CommForm.resources
+E:\模型\C#通讯程序\CommWindowsForms\CommWindowsForms\obj\x86\Debug\CommWindowsForms.Properties.Resources.resources
+E:\模型\C#通讯程序\CommWindowsForms\CommWindowsForms\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\模型\C#通讯程序\CommWindowsForms\CommWindowsForms\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\模型\C#通讯程序\CommWindowsForms\CommWindowsForms\obj\x86\Debug\CommWindowsForms.exe
+E:\模型\C#通讯程序\CommWindowsForms\CommWindowsForms\obj\x86\Debug\CommWindowsForms.pdb
+G:\CommWindowsForms\CommWindowsForms\obj\x86\Debug\CommWindowsForms.exe
+G:\CommWindowsForms\CommWindowsForms\obj\x86\Debug\CommWindowsForms.pdb
